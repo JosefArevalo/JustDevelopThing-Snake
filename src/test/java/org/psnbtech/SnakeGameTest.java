@@ -19,7 +19,7 @@ public class SnakeGameTest{
 	Method uSnake;
 	Method uGame;
 	
-	Field newGame;
+	//Field newGame;
 	Field snakefield;
 	Field direct;
 	Field time;
