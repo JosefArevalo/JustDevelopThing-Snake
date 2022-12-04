@@ -10,7 +10,7 @@ import org.junit.Before;
 import org.junit.Test;
 
 public class ClockTest {
-	Clock c;
+	//Clock c;
 	
 	@Before
 	public void setUp() throws Exception {
